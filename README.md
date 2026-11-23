@@ -1,4 +1,4 @@
-# HSBC Banking Website Automation – Cypress
+# Banking Website Automation – Cypress
 
 ## Project Overview
 An end-to-end web automation testing project developed during my internship with Fortray. The project focuses on automating key banking website functionalities to support efficient and consistent testing.
